@@ -5,8 +5,8 @@ const RetroSummary = () => {
     <div className="card z-depth-0 retro-summary">
       <div className="card content grey-text darken-3">
         <span className="card-title">Retro Title</span>
-        <p>Topic added by SpyRock</p>
-        <p className="grey-text">Jan 30, 2019</p>
+        <p>Sprint: 11</p>
+        <p className="grey-text">Jan 18 - Feb 1, 2019</p>
       </div>
     </div>
   )
