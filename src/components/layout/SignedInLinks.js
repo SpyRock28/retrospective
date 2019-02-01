@@ -5,8 +5,8 @@ const SignedInLinks = () => {
   return (
     <ul className="right">
       <li><NavLink to='/'>New Retrospective</NavLink></li>
-      <li><NavLink to='/'>Log Out</NavLink></li>
-      <li><NavLink to='/' className="btn btn-floating"></NavLink></li>
+      {/* <li><NavLink to='/'>Log Out</NavLink></li> */}
+      {/* <li><NavLink to='/' className="btn btn-floating"></NavLink></li> */}
     </ul>
   )
 }
