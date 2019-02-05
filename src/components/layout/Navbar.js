@@ -7,7 +7,7 @@ import SignedInLinks from './SignedInLinks';
 const Navbar = () => {
   return (
     <nav className="nav-wrapper grey darken-2">
-      <Link to='/' className="brand-logo left fixed">Retrospective Manager</Link>
+      <Link to='/' className="brand-logo left">Retrospective Manager</Link>
       <div className="container">
         
 

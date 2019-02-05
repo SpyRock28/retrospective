@@ -5,7 +5,7 @@ import RetroList from '../retros/RetroList';
 class Dashboard extends Component {
   render(){
     return (
-      <div className="dashboard container">
+      <div className="dashboard">
         <div className="row">
           <div className="col s12 m6">
             <RetroList />
